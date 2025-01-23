@@ -103,7 +103,7 @@ dependencies {
     mappings(loom.officialMojangMappings())
     forge("net.minecraftforge:forge:$versionMc-$versionForge")
 
-    includeProject("reach-entity-attributes")
+//    includeProject("reach-entity-attributes")
     includeProject("rei-bridge")
     includeProject("emi-bridge")
     includeProject("energy-bridge")
